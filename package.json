@@ -1,0 +1,14 @@
+{
+  "name": "express-todo-boilerplate",
+  "version": "1.0.0",
+  "description": "A Simple Express.js Todo Application Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Grace Lungu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^$.0.0"
+  }
+}
